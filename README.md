@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleilson-josé-5b6b7976/" /></a><a href="https://www.instagram.com/cleilson.js/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cleilson.js/"/></a>
 </p>
-![Stacks Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonjose&layout=compact&show_icons=true&theme=gruvbox)]
+
