@@ -25,5 +25,6 @@
 </p>
 
   
-![Stacks Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonjose&layout=compact&show_icons=true&theme=gruvbox)
-![Meus Status no GitHub](https://github-readme-stats.vercel.app/api?username=cleilsonjose&show_icons=true&theme=dracula)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleilsonjose&hide=css,java,html&theme=tokyonight">
+</p>
